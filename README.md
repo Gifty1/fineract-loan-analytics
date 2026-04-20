@@ -129,3 +129,32 @@ src/
 **Gifty Rani R** | Senior Software Engineer  
 Fineract · Spring Boot · Microfinance Banking · REST APIs  
 [LinkedIn](https://linkedin.com/in/giftyrani) · r.giftyrani@gmail.com · Ras Al Khaimah, UAE
+
+## Screenshots
+
+### Swagger UI — All Endpoints
+![Swagger UI](screenshots/swagger-ui.png)
+
+### User Registration
+![User Register](screenshots/user%20register.png)
+
+### Login with Registered User
+![Login](screenshots/loginwith%20registered%20user.png)
+
+### Portfolio Summary (PAR30, PAR90, Repayment Rate)
+![Portfolio Summary](screenshots/loansportfoliosummary.png)
+
+### Get All Loans
+![Get All Loans](screenshots/get%20all%20loans.png)
+
+### Loans by Branch
+![Loans by Branch](screenshots/loansBybranch.png)
+
+### Loan Status Filter
+![Loan Status](screenshots/loanStatus.png)
+
+### Branch Performance Report
+![Branch Performance](screenshots/loanperformance.png)
+
+### Monthly Disbursement Trend
+![Monthly Disbursements](screenshots/loan%20disbursements%20monthly.png)
