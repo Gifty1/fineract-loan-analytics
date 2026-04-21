@@ -158,3 +158,17 @@ Fineract · Spring Boot · Microfinance Banking · REST APIs
 
 ### Monthly Disbursement Trend
 ![Monthly Disbursements](screenshots/loan%20disbursements%20monthly.png)
+
+## Power BI Dashboard
+
+Interactive microfinance loan analytics dashboard built on
+the Fineract data model.
+
+![Dashboard](screenshots/power-bi%20dashboard.png)
+
+**Features:**
+- PAR30 & PAR90 portfolio risk metrics
+- Disbursement by branch
+- Portfolio by loan status
+- Outstanding balance tracking
+- Interactive branch slicer — filters all visuals instantly
